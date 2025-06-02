@@ -35,7 +35,7 @@ sudo apt install php php-mysql php-gd php-cli php-common -y
 download wordpress
 
 sudo apt install weget unzip -y
-sudo weget <url of wordpress>
+sudo weget <url of wordpress>https://wordpress.org/latest.zip
 sudo unzip <filename>
 sudo cp -r wordpress/* /var/www/html/
 goto the CD /var/www/html
