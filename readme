@@ -13,8 +13,8 @@ sudo apt install apache2
 sudo systemctl status apache2
 
 Check the web-browser
-sudo systemclt start apache2
-sudo systemclt enable apache2 (service will be running after )
+sudo systemctl start apache2
+sudo systemctl enable apache2 (service will be running after )
 
 Sudo apt  install mariadb-server mariadb-client -y
 configure
